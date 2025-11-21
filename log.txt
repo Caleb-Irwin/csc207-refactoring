@@ -1,2 +1,3 @@
+ce6225d Task 1.2 GitLog + Add Docstring for Exception
 6b518d2 Task 1.1 Done!
 44c174b Initial commit
