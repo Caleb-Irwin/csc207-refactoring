@@ -1,3 +1,5 @@
+43c6cfb Task 2.4 Done (and assignment too)
+e292301 Task 2.3 Done!
 ac8e13c Task 2.2 Done!
 9bab886 Task 2.1 Done (I think; I did it mildly differently but still should be correct)
 ce6225d Task 1.2 GitLog + Add Docstring for Exception
